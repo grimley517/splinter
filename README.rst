@@ -3,31 +3,31 @@
 
 
 ++++++++++++++++++++++++++++++++++++++++++++++++
-splinter - python tool for test web applications
+Splinter - python tool for testing web applications
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-splinter is a tool for test web applications with a simple for find elements, form actions, and others browser actions.
+Splinter is a tool for testing web applications with a simple interface for finding elements, form actions, and other browser actions.
 
-`what's new in splinter? <http://splinter.cobrateam.info/en/latest/news.html>`_
+`What's new in Splinter? <http://splinter.cobrateam.info/en/latest/news.html>`_
 
-first steps
+First steps
 ===========
 
 * `Installation <http://splinter.cobrateam.info/en/latest/install.html>`_
 * `Quick tutorial <http://splinter.cobrateam.info/en/latest/tutorial.html>`_
 
-splinter open source project
+Splinter open source project
 ============================
 
 * `Community <http://splinter.cobrateam.info/en/latest/community.html>`_
 * `Contribute <http://splinter.cobrateam.info/en/latest/contribute.html>`_
 
-documentation
+Documentation
 =============
 
 `splinter documentation <http://splinter.cobrateam.info>`_
 
-external links
+External links
 ==============
 
 `Django Full Stack Testing and BDD with Lettuce and Splinter <http://cilliano.com/blog/2011/02/07/django-bdd-with-lettuce-and-splinter/>`_
